@@ -33,7 +33,7 @@ The API is built using:
 
 - P95 latency target: 700 milliseconds  
 - Availability target: 99.9%  
-- Cost goal: Under ₹0.50 per 1000 requests (based on actual AWS billing data)
+- Cost goal: Under ₹0.50 per 1000 requests
 
 ---
 
