@@ -110,5 +110,3 @@ Define error budget for monthly SLA compliance.
 
 ---
 
-*End of spec.md template.*
-
